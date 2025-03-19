@@ -1,0 +1,6 @@
+Considere que o programa escrito no exercício 3 foi salvo em um arquivo nomeado exerc_3.c. Escreva o
+comando que deve ser utilizado para compilar exerc_3.c no sistema operacional Linux. Em seguida, escreva
+o comando que deve ser utilizado para executar o programa.
+
+$ gcc -o exerc_3 exerc_3 
+$ ./exerc_3
